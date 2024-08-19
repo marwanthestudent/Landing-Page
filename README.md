@@ -8,10 +8,13 @@ This Landing page was built for the Front End Mentor [Challenge](https://www.fro
 
 # Usage
 Install dependencies
+   ```bash
 npm install
-
-Run the Tailwind CLI to compile the input.css during development. The output file is css/main.css 
+```
+Run the Tailwind CLI to compile the input.css during development. The output file is css/main.css
+  ```bash
 npm run build
+```
 
 Then you can open index.html with liver server
 
