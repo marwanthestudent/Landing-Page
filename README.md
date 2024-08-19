@@ -1,5 +1,5 @@
 # Landing Page
-It is from the Front End Mentor [Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
+This Landing page was built for the Front End Mentor [Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
 
 # Desktop View
 ![image](https://github.com/user-attachments/assets/6a6159bc-0c57-4580-bb0e-4bcc3890e664)
